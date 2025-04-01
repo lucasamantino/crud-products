@@ -23,7 +23,7 @@ This project is a product management system that uses a MySQL database to perfor
 ```bash
 git clone https://github.com/lucasamantino/crud-products.git
 ```  
-- Rename the `.env.example` file to `.env` (at the project root) and fill in the variables with your actual credentials.
+- Set the environment variables mentioned in [.env.example](./.env.example)
 - In the project folder, run the following command in the terminal:
 ```bash
 java -cp "./lib/*" ./src/Main.java
